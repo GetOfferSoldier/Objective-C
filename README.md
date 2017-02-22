@@ -26,6 +26,14 @@
 
 ---
 
+[2017-02-22-01](https://github.com/GetOfferSoldier/Objective-C/blob/master/2017/02/2017-02-22-01.md)
+
+
+1. `id` 和 `instancetype` 的区别?
+2. 有方法查看当前系统内存使用的情况吗？
+3. 为什么 NotificationCenter 要 removeObserver? 如何实现自动 remove？
+4. iOS的沙盒目录结构是怎样的？ App Bundle 里面都有什么？
+5. 简单描述一下客户端的缓存机制？
 
 
 [2017-02-21-01](https://github.com/GetOfferSoldier/Objective-C/blob/master/2017/02/2017-02-21-01.md)
