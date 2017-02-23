@@ -26,6 +26,10 @@
 
 ---
 
+[2017-02-24-01](https://github.com/GetOfferSoldier/Objective-C/tree/master/2017/02/2017-02-24-01/CollectionViewFlowLayout)
+
+1.一个用 UICollectionView 自定义圆环 + CABasicAnimation 组合无限旋转/等比缩放的动画(充数用的，请先看 ReadMe.md 😂)
+
 [2017-02-22-01](https://github.com/GetOfferSoldier/Objective-C/blob/master/2017/02/2017-02-22-01.md)
 
 
@@ -59,4 +63,3 @@
 [2017-02-19-01](https://github.com/GetOfferSoldier/Objective-C/blob/master/2017/02/2017-02-19-01.md)
 
 1. 按钮或者 View 在进行 frame 动画的时候，为什么点击 frame 动画的重点位置才能触发事件？如何在动画过程中响应事件？
-
