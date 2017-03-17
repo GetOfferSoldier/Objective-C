@@ -26,7 +26,7 @@
 
 ---
 
-[2017-03-18-01]()
+[2017-03-18-01](https://github.com/GetOfferSoldier/Objective-C/blob/master/2017/03/2017-03-18-01.md)
 
 1. OC 中,与 alloc 语义相反的方法是 dealloc 还是 release？ 与 retain 语义相反的方法是 dealloc 还是 release？ 为什么？ 需要与 alloc 配对使用的方法是 dealloc 还是 release, 为什么?
 
